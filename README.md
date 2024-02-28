@@ -6,7 +6,7 @@ Hi there! I'm Mohammed, a Full stack developer passionate about backend engineer
 
 - 💼 Currently a freelancer.
 - 🌱 I'm constantly learning and exploring new technologies, especially Web and mobile fields.
-- 📫 How to reach me:  meeq121@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-meddour-127144289/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamed__beat/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohamedBeat2) | [Personal Website](https://main--mmohammed-portfolio.netlify.app/)
+- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](meeq121@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-meddour-127144289/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamed__beat/) | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohamedBeat2) | [Personal Website](https://main--mmohammed-portfolio.netlify.app/)
    
 
 
