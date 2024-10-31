@@ -1,16 +1,13 @@
 # Welcome to Mohammed's GitHub Profile! 👋
 
-Hi there! I'm Mohammed, a Full stack developer passionate about backend engineering. Welcome to my GitHub profile, where you can explore some of my projects and contributions.
+Hi there! I'm Mohammed, a backend developer passionate about software engineering. Welcome to my GitHub profile, where you can explore some of my projects and contributions.
 
 ## About Me 
 
 - 💼 Currently a full-time software developer.
-- 🌱 I'm constantly learning and exploring new technologies, especially go programming launguage and backend engineering stuff.
+- 🌱 I'm constantly learning and exploring new technologies, especially go programming language and backend engineering stuff.
 - 📫 How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white) meeq121@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-meddour-127144289/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamed__beat/) |  [Personal Website](https://main--mmohammed-portfolio.netlify.app/)
    
-
-
-
 Feel free to explore my projects in my repositories!
 
 ## Skills 💡
