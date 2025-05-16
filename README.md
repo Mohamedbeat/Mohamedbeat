@@ -1,24 +1,20 @@
-# Welcome to Mohammed's GitHub Profile! 👋
+## About Me
 
-Hi there! I'm Mohammed, a backend developer passionate about software engineering. Welcome to my GitHub profile, where you can explore some of my projects and contributions.
+I am a software engineer specializing in backend development and distributed systems. My primary focus is on designing scalable, maintainable, and secure architectures that support high-performance applications. I have experience working with both monolithic and microservices-based systems, and I enjoy working across the stack when necessary.
 
-## About Me 
+### Technical Proficiencies
 
-- 💼 Currently a full-time software developer.
-- 🌱 I'm constantly learning and exploring new technologies, especially go programming language and backend engineering stuff.
-- 📫 How to reach me: ![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white) meeq121@gmail.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-meddour-127144289/) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamed__beat/) |  [Personal Website](https://main--mmohammed-portfolio.netlify.app/)
-   
-Feel free to explore my projects in my repositories!
+I primarily work with TypeScript and Go, and I’m comfortable with both SQL and NoSQL databases. I rely on tools like Git and Docker to build and manage reliable, containerized systems.
 
-## Skills 💡
+### Areas of Interest
 
-- Languages: Arabic - English - French.
-- Technologies: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)   ![GO](https://img.shields.io/badge/go-%230077B5.svg?&logo=go&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)  ![Postgresql](https://img.shields.io/badge/postgresql-%2300f.svg?&logo=postgresql&logoColor=white)
+- Distributed Systems & Event-Driven Architecture  
+- Systems Design & Optimization  
+- Software Engineering Best Practices
 
+### Professional Objectives
 
+- Continuously learn and apply modern engineering patterns  
 
-If you're interested in collaborating on open source projects, feel free to reach out!
+For more details about my work or to get in touch, please refer to [my portfolio](https://mmohammed-portfolio.netlify.app/).
 
-
-
-Thanks for visiting my GitHub profile! Enjoy exploring and feel free to reach out if you have any questions or just want to say hi! 😊
