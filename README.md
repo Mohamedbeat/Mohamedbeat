@@ -16,5 +16,5 @@ I primarily work with TypeScript and Go, and I’m comfortable with both SQL and
 
 - Continuously learn and apply modern engineering patterns  
 
-For more details about my work or to get in touch, please refer to [my portfolio](https://mmohammed-portfolio.netlify.app/).
+For more details about my work or to get in touch, please refer to [my portfolio](https://mohameddotgo.netlify.app/).
 
